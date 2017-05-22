@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "An app that allows the user to play a flashcard game with flashcards that they (or someone else create",
+  "main": "flashcard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nclespaul/Flashcard-Generator.git"
+  },
+  "author": "Darrell Freeman",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/nclespaul/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/nclespaul/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "2.0.0"
+  }
+}
