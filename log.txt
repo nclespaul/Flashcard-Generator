@@ -1,1 +1,0 @@
-[{"front":"what is your name?","back":"Darrell","makeMoreCards":true},{"front":"what is your wife's name?","back":"Rami","makeMoreCards":false}]
