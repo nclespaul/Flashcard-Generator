@@ -100,7 +100,6 @@ const quiz = (logFile, x) => {
             right = 0;
             wrong = 0;
             card_array = [];
-            flashcards();
         }
     });
 };
